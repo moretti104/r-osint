@@ -34,3 +34,5 @@ wait some upgrades in future (maybe)
 (wait for image)
 # option 7
 exit 
+# spoiler
+``` wait for gold penguin tool... coming soon```
