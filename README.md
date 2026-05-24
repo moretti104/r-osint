@@ -11,7 +11,7 @@ pkg install git python -y
 git clone https://github.com/moretti104/r-osint.git
 
 cd r-osint
-# run
+# start tool
 python tool.py
 # what can do this tool?
 this tool can find info with a phone number, e-mail or an IP.
