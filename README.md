@@ -19,20 +19,6 @@ this tool can find info with a phone number, e-mail or an IP.
 r-osint is now at version 2.5
 wait some upgrades in future (maybe)
 # tool
-(wait for image)
-# option 1
-(wait for image)
-# option 2
-(wait for image)
-# option 3
-(wait for image)
-# option 4 
-(wait for image)
-# option 5
-(wait for image)
-# option 6
-(wait for image)
-# option 7
-exit 
+67 
 # spoiler
 ``` wait for gold penguin tool... coming soon```
