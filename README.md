@@ -2,6 +2,8 @@
 r-osint tool is an osint tool created by moretti in May 2026. This tool was created exclusively for educational purposes. We assume no responsibility for any improper or unauthorized use of this tool. The tool uses the phonenumbers library. Make sure it's installed before running it. 
 # r-osint
 ![r-osint tool](Screenshot_20260524_170735_Termux.jpg) 
+# exemple
+![option 4](Screenshot_20260524_172956_Termux.jpg)
 # requirements
 ```pkg install python -y```
 ```pip install phonenumbers```
