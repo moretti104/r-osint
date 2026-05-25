@@ -14,7 +14,7 @@ r-osint tool is an osint tool created by moretti in May 2026. This tool was crea
 
 ```pkg install git python -y```
 
-```git clone https://github.com/moretti104/r-osint.git```
+```git clone https://github.com/moretti-777/r-osint.git```
 
 ```cd r-osint```
 # start tool
