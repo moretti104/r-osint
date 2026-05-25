@@ -6,10 +6,10 @@ import time
 try:
     import core
 except ImportError:
-    print("\033[31m[-] Errore irreversibile: Manca il file core.py nella directory.\033[0m")
+    print("\033[31m[-]no nano named:core.py.\033[0m")
     sys.exit(1)
 
-# Pulizia dello schermo universale e nativa (Fix per il Permission Denied)
+# clean screen
 def clear_screen():
     print("\033[H\033[J", end="")
 
@@ -27,14 +27,14 @@ def lolcat_print(text):
         color = colors[i % len(colors)]
         print(f"{color}{line}\033[0m")
 
-C = "\033[36m" # Cyan
+C = "\033[36m" # Ciano
 G = "\033[32m" # Verde
 R = "\033[31m" # Rosso
 Y = "\033[33m" # Giallo
 W = "\033[0m" # Reset
 
 def pause():
-    print(f"\n{Y}[*] task finished--[].{W}")
+    print(f"\n{Y}[*] task finished.{W}")
     input(f"{G}Press enter [/] to go on menu{W}")
 
 def banner():
