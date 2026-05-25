@@ -19,6 +19,6 @@ this tool can find info with a phone number, e-mail or an IP.
 r-osint is now at version 2.5
 wait some upgrades in future (maybe)
 # tool
-![r-osint tool](images/Screenshot_20260524_170735_Termux.jpg) 
+![r-osint tool](Screenshot_20260524_170735_Termux.jpg) 
 # spoiler
 ``` wait for gold penguin tool... coming soon```
