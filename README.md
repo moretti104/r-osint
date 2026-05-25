@@ -1,7 +1,9 @@
-# about this tool
-r-osint tool is an osint tool created by moretti in May 2026. This tool was created exclusively for educational purposes. We assume no responsibility for any improper or unauthorized use of this tool. The tool uses the phonenumbers library. Make sure it's installed before running it. 
 # r-osint
 ![r-osint tool](Screenshot_20260524_170735_Termux.jpg) 
+# where can I use this tool?
+this tool can be used on termux. follow the instructions (under)
+# about this tool
+r-osint tool is an osint tool created by moretti in May 2026. This tool was created exclusively for educational purposes. We assume no responsibility for any improper or unauthorized use of this tool. The tool uses the phonenumbers library. Make sure it's installed before running it. 
 # exemple
 ![option 4](Screenshot_20260524_172956_Termux.jpg)
 # requirements
