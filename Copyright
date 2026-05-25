@@ -1,2 +1,5 @@
-if you want copy the script, you're free but write [at the start or at end] 
-# Copyright:r-osint
+if you want to copy the script, you're free but write [at the start or at end] 
+ Copyright:r-osint
+Please do not copy the entire script without copyrighting it. 
+ You are free to take inspiration from the core.py & tool.py folders, as long as you don't copy the entire code (if so, please link to the directory) 
+https://github.com/moretti104/r-osint.git
