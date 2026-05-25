@@ -3,18 +3,18 @@ r-osint tool is an osint tool created by moretti in May 2026. This tool was crea
 # r-osint
 ![r-osint tool](Screenshot_20260524_170735_Termux.jpg) 
 # requirements
-pkg install python -y
-pip install phonenumbers
+```pkg install python -y```
+```pip install phonenumbers```
 # how to use
-pkg update && pkg upgrade -y
+```pkg update && pkg upgrade -y```
 
-pkg install git python -y
+```pkg install git python -y```
 
-git clone https://github.com/moretti104/r-osint.git
+```git clone https://github.com/moretti104/r-osint.git```
 
-cd r-osint
+```cd r-osint```
 # start tool
-python tool.py
+```python tool.py```
 # what can this tool do?
 this tool can find info with a phone number, e-mail or an IP.
 # version
